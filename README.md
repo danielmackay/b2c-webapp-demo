@@ -27,7 +27,7 @@ This solution uses Azure AD B2C to 3 user flows.  These flows are provided OOTB 
 ![Edit Profile](https://danielmackay.github.io/b2c-webapp-demo/images/edit-profile.png)
 
 ### Reset Password
-![Reset Password](https://danielmackay.github.io/b2c-webapp-demo/images/reset-password.png)
+![Reset Password](https://danielmackay.github.io/b2c-webapp-demo/images/forgot-password.png)
 
 ## Resources
-- https://www.youtube.com/watch?v=oG9GcYIuYQM
+- [Youtube](https://www.youtube.com/watch?v=oG9GcYIuYQM)
