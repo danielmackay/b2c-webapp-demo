@@ -21,13 +21,13 @@ dotnet new webapp --auth IndividualB2C
 This solution uses Azure AD B2C to 3 user flows.  These flows are provided OOTB by identiy including the UI.
 
 ### Sign Up and Sign In
-![Sign Up and Sign In](https://github.com/danielmackay/b2c-webapp-demo/images/susi.png)
+![Sign Up and Sign In](https://danielmackay.github.io/b2c-webapp-demo/images/susi.png)
 
 ### Edit Profile
-![Edit Profile](https://github.com/danielmackay/b2c-webapp-demo/images/edit-profile.png)
+![Edit Profile](https://danielmackay.github.io/b2c-webapp-demo/images/edit-profile.png)
 
 ### Reset Password
-![Reset Password](https://github.com/danielmackay/b2c-webapp-demo/images/reset-password.png)
+![Reset Password](https://danielmackay.github.io/b2c-webapp-demo/images/reset-password.png)
 
 ## Resources
 - https://www.youtube.com/watch?v=oG9GcYIuYQM
